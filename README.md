@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Arshman,
-- 👀 I’m interested in development & programming,
-- 🌱 Professional work experience in React js, Node js, Bootstrap, Tailwind, Css, HTML,
-- 🌱 I’m currently learning Next js, 
-- 💞️ I’m looking to collaborate on my work related project or repositories,
-- 📫 You can catch up me on linkedIn also,
-- 😄 Professional work experience look forward to get more expertise,
-- ⚡ You Imagine we Create
+Hi there, I'm Arshman 👋
+🎯 Professional React Developer
 
+💼 Experience: 3 years in web and app development
 
+🛠 Skills:
+
+TypeScript
+JavaScript
+Node.js
+React.js
+React Native
+Tailwind CSS
+Bootstrap
+HTML & CSS
+🚀 Projects: Successfully accomplished numerous projects
+
+🎓 Education: Currently studying at UE Multan Campus
+
+🌐 Let's Connect:
+
+LinkedIn
+www.linkedin.com/in/arshman-ahmad-334829298
+
+About Me
+I am a passionate developer who loves turning ideas into reality through code. I thrive in collaborative environments and enjoy learning new technologies to stay up-to-date with industry trends. In my free time, I enjoy working on personal projects, exploring new programming languages, and contributing to open-source communities. I believe in continuous learning and growth, and I am always looking for new challenges and opportunities to enhance my skills.
